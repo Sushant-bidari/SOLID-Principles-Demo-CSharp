@@ -16,4 +16,5 @@ git clone https://github.com/Sushant-bidari/SOLID-Principles-Demo-CSharp.git
 3. Build and run the project. You will see demonstrations of all 5 SOLID principles in the console output.
 
 Author
+
 Sushant Bidari
