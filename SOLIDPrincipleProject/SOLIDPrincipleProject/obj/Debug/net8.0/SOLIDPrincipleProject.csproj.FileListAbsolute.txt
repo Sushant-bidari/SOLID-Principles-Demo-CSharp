@@ -1,0 +1,14 @@
+E:\Intern\SOLIDPrincipleProject\SOLIDPrincipleProject\bin\Debug\net8.0\SOLIDPrincipleProject.exe
+E:\Intern\SOLIDPrincipleProject\SOLIDPrincipleProject\bin\Debug\net8.0\SOLIDPrincipleProject.deps.json
+E:\Intern\SOLIDPrincipleProject\SOLIDPrincipleProject\bin\Debug\net8.0\SOLIDPrincipleProject.runtimeconfig.json
+E:\Intern\SOLIDPrincipleProject\SOLIDPrincipleProject\bin\Debug\net8.0\SOLIDPrincipleProject.dll
+E:\Intern\SOLIDPrincipleProject\SOLIDPrincipleProject\bin\Debug\net8.0\SOLIDPrincipleProject.pdb
+E:\Intern\SOLIDPrincipleProject\SOLIDPrincipleProject\obj\Debug\net8.0\SOLIDPrincipleProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Intern\SOLIDPrincipleProject\SOLIDPrincipleProject\obj\Debug\net8.0\SOLIDPrincipleProject.AssemblyInfoInputs.cache
+E:\Intern\SOLIDPrincipleProject\SOLIDPrincipleProject\obj\Debug\net8.0\SOLIDPrincipleProject.AssemblyInfo.cs
+E:\Intern\SOLIDPrincipleProject\SOLIDPrincipleProject\obj\Debug\net8.0\SOLIDPrincipleProject.csproj.CoreCompileInputs.cache
+E:\Intern\SOLIDPrincipleProject\SOLIDPrincipleProject\obj\Debug\net8.0\SOLIDPrincipleProject.dll
+E:\Intern\SOLIDPrincipleProject\SOLIDPrincipleProject\obj\Debug\net8.0\refint\SOLIDPrincipleProject.dll
+E:\Intern\SOLIDPrincipleProject\SOLIDPrincipleProject\obj\Debug\net8.0\SOLIDPrincipleProject.pdb
+E:\Intern\SOLIDPrincipleProject\SOLIDPrincipleProject\obj\Debug\net8.0\SOLIDPrincipleProject.genruntimeconfig.cache
+E:\Intern\SOLIDPrincipleProject\SOLIDPrincipleProject\obj\Debug\net8.0\ref\SOLIDPrincipleProject.dll
