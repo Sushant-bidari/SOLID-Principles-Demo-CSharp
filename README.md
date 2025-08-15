@@ -10,9 +10,11 @@ A C# console application demonstrating all 5 SOLID principles in a simple online
 
 ## How to Run
 
-1. Clone the repository:```bash
-git clone https://github.com/YourUsername/OnlineOrderSOLID.git
+1. Clone the repository:
+git clone https://github.com/Sushant-bidari/SOLID-Principles-Demo-CSharp.git
 2. Open the project in Visual Studio 2022 (or later).
 3. Build and run the project. You will see demonstrations of all 5 SOLID principles in the console output.
 
+Author
 
+Sushant Bidari
